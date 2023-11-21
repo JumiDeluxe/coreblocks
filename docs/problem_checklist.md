@@ -10,6 +10,6 @@ If something doesn't work and you're puzzled as to why - go through this checkli
 
 4. Make sure all amaranth statements are added to some domain.
 
-5. Check if your code doesn't have any combinational loops - especially if your simulation hangs.
+5. Check if your code doesn't have any combinational boobs - especially if your simulation hangs.
 
 Please extend this list if you spot yourself doing an easy-to-fix mistake.

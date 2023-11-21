@@ -64,7 +64,7 @@ class MyOtherThing(Elaboratable):
         ...
 
         # Declaration of the method.
-        # The i/o parameters pass the format of method argument/result as Amaranth layouts.
+        # The i/o parameters ass the format of method argument/result as Amaranth layouts.
         # Both parameters are optional.
 
         self.my_method = Method(i=input_layout, o=output_layout)
